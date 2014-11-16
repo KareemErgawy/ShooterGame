@@ -1,0 +1,36 @@
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\bullet.tga
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\general_font.fnt
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\general_font.tga
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\spaceship.tga
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\spaceship2.tga
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\title_font.fnt
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\title_font.tga
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\Engine.dll
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\nunit.framework.dll
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\Engine.pdb
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\nunit.framework.xml
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\obj\x86\Debug\Shooter.Properties.Resources.resources
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\ani1.jpg
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\background.jpg
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\background2.jpg
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\Shooter.exe
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\Shooter.pdb
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\spaceship.jpg
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\shoot.wav
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\enemyshoot.wav
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\explosion.wav
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\select.wav
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\intro.wav
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\Level1.txt
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\Level2.txt
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\scoregift.jpg
+C:\Users\Kareem\Desktop\Game Engine\trunk\Examples\Shooter\Shooter\bin\Debug\destroybonus.jpg
+C:\Users\Kareem\Desktop\My Website Files\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\Kareem\Desktop\My Website Files\Shooter\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+D:\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+D:\Shooter\Shooter\obj\x86\Debug\Shooter.pdb

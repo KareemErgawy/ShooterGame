@@ -1,0 +1,7 @@
+C:\Users\Kareem\Desktop\Game Engine\trunk\Engine\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kareem\Desktop\Game Engine\trunk\Engine\Engine\bin\Debug\Engine.dll
+C:\Users\Kareem\Desktop\Game Engine\trunk\Engine\Engine\bin\Debug\Engine.pdb
+C:\Users\Kareem\Desktop\Game Engine\trunk\Engine\Engine\bin\Debug\nunit.framework.dll
+C:\Users\Kareem\Desktop\Game Engine\trunk\Engine\Engine\bin\Debug\nunit.framework.xml
+C:\Users\Kareem\Desktop\Game Engine\trunk\Engine\Engine\obj\x86\Debug\Engine.dll
+C:\Users\Kareem\Desktop\Game Engine\trunk\Engine\Engine\obj\x86\Debug\Engine.pdb

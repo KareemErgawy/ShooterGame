@@ -1,0 +1,10 @@
+﻿cannon_fodder, 25
+cannon_fodder, 24
+cannon_fodder_low, 20
+cannon_fodder_low, 19
+cannon_fodder_straight, 16
+up_l, 10
+down_l, 9
+up_l, 8
+down_l, 7
+up_l, 6
